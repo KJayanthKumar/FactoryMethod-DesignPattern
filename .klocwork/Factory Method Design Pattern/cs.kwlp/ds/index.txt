@@ -1,0 +1,10 @@
+C:\Learning\Factory Method Design Pattern\Factory Method Design Pattern\CreditCardFactory.cs;;1;0;False;16D6EBD3A22AFDEA5C558ED3C76992378F53B6B1;False
+C:\Learning\Factory Method Design Pattern\Factory Method Design Pattern\IcreditCard.cs;;2;0;False;1F0E4E9BBD9648EEC9279F4BA1B7F45BF2209475;False
+C:\Learning\Factory Method Design Pattern\Factory Method Design Pattern\MoneyBack.cs;;3;0;False;A0F862065D75A3723229A8560D7B9537F3D76ACA;False
+C:\Learning\Factory Method Design Pattern\Factory Method Design Pattern\MoneyBackFactory.cs;;4;0;False;C4597A576D36C88A92818483FE6D1F405E03E4FA;False
+C:\Learning\Factory Method Design Pattern\Factory Method Design Pattern\Platinum.cs;;5;0;False;27D63A5CF177F3B98F068702A350EFC8A417EC8D;False
+C:\Learning\Factory Method Design Pattern\Factory Method Design Pattern\PlatinumFactory.cs;;6;0;False;AF91B854D5CE8AB52EB1161A9DD6DCCD158861E8;False
+C:\Learning\Factory Method Design Pattern\Factory Method Design Pattern\Program.cs;;7;0;False;0A8BF7EC07CE9EDE558B828C025ADC8DE93AE3BC;False
+C:\Learning\Factory Method Design Pattern\Factory Method Design Pattern\Properties\AssemblyInfo.cs;;8;0;False;2A707C0829218EE49503E02C0D7C3B98DCDA009A;False
+C:\Learning\Factory Method Design Pattern\Factory Method Design Pattern\Titanium.cs;;9;0;False;4109CB6F5819938AFD255599AFAB11D0B2E936B8;False
+C:\Learning\Factory Method Design Pattern\Factory Method Design Pattern\TitaniumFactory.cs;;10;0;False;34C98B95052B18C2BFFE8929E9B45EF172D8AE67;False
